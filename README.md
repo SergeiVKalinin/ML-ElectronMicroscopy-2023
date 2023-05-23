@@ -22,7 +22,7 @@ d.	To the estimated length of 6-8 weeks (to be tuned)
 e.	The course is expected to start in mid-June
 f.	For registration, we will need your e-mail (as a primary way to contact, send Zoom invites, etc)
 
-6.	The tentative program (to be updated) is in th efolder
+6.	The tentative program (to be updated) is in this repository
 
 7.	As a distinctive feature of the course, you are welcome to send the questions “how can we use ML to [describe problem]”. While we cannot guarantee that we can answer them, we will aim to incorporate these scenarios into the presentations and/or discuss as imaginary scenarios and workflows throughout the course. 
 
