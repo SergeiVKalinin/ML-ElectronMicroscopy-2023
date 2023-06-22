@@ -25,8 +25,9 @@ Lecture 2/.ipynb_checkpoints/2_Adaptive_Fourier_Filter-checkpoint.ipynb
 Lecture 2/.ipynb_checkpoints/1_Load_File-checkpoint.ipynb
 Lecture 2/.ipynb_checkpoints/0_Data_Representation-checkpoint.ipynb
 Lecture 2/.ipynb_checkpoints/2_Adaptive_Fourier_Filter-checkpoint.ipynb
-example_data/STO-stack.hf5
 Lecture 6/.ipynb_checkpoints/2_undistorted_registration-checkpoint.ipynb
 Lecture 6/.ipynb_checkpoints/Graph_Theory-checkpoint.ipynb
 Lecture 5/.ipynb_checkpoints/2_Resolution-checkpoint.ipynb
 Lecture 6/.ipynb_checkpoints/2_Graph_Theory-checkpoint.ipynb
+*.pptx
+example_data/STO-stack.hf5
