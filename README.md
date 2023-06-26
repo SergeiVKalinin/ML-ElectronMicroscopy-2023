@@ -1,6 +1,6 @@
 # ML-ElectronMicroscopy-2023
 
-Update: recordigns are being posted at: https://www.youtube.com/playlist?list=PLS6ZvEWHZ3OP6-Z5qnzGKNKWA-l2Sry3l
+Update: recordings are being posted at: https://www.youtube.com/playlist?list=PLS6ZvEWHZ3OP6-Z5qnzGKNKWA-l2Sry3l
 
 Machine learning is changing the way microscopy operates on all levels – from analysis of imaging and hyperspectral data to microscope optimization to the way instruments scan, acquire spectra, and even design and execute experiments. The purpose of this school is to provide an introduction and hands-on skills that constitute the individual elements of this transition and take it to the next level as a community. 
 
